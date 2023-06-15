@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <string name="default_web_client_id"
+        translatable="false">1002697476812-6ol8m2cc7uecu5mqj9j9e73j8fkh2vst.apps.googleusercontent.com</string>
+    <string name="firebase_database_url"
+        translatable="false">https://praktikum-10-daa7d-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId"
+        translatable="false">1002697476812</string>
+    <string name="google_api_key"
+        translatable="false">AIzaSyAF4xPBvUmT23v7jjUC5tCliNlGbwww3i4</string>
+    <string name="google_app_id"
+        translatable="false">1:673501773083:android:7b40b6051dffb5e5f827be</string>
+    <string name="google_crash_reporting_api_key"
+        translatable="false">AIzaSyAUevbCUEw24jYzW_IOl4KgfaZhNeMAIKk</string>
+    <string name="google_storage_bucket"
+        translatable="false">praktikum-10-daa7d.appspot.com</string>
+    <string name="project_id"
+        translatable="false">praktikum-10-daa7d</string>
+</resources>
